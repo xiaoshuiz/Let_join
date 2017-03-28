@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/shinelon/let_join/LoginActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/shinelon/let_join/ManagerActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/course_dao/DBOpenHelper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/course_model/course.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/course_model/courseOther.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/course_model/courseOtherid.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/course_model/courseTime.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
